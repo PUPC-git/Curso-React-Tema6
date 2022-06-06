@@ -1,9 +1,9 @@
-/* Mensajes.view.css */
+@import "src/colors.scss";
 
 .Mensajes {
     width: 100%;
     height: 100%;
-    background-color: #EAEAE9;
+    background-color: $light;
 
     display: flex;
     flex-direction: column;

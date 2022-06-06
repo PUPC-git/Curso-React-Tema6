@@ -1,4 +1,4 @@
-import './MensajesHeader.component.css';
+import './MensajesHeader.component.scss';
 
 export default function MensajesHeader(props) {
   return (

@@ -1,4 +1,4 @@
-import './MensajesTable.component.css';
+import './MensajesTable.component.scss';
 
 /**
  * /* Fijaos que ponemos un espacio ' ' después de 'clase1'

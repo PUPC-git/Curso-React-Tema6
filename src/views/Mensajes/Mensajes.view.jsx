@@ -1,6 +1,6 @@
 /* Mensajes.view.jsx */
 import React, { useState } from 'react';
-import './Mensajes.view.css';
+import './Mensajes.view.scss';
 import MensajesHeader from '../../components/MensajesHeader/MensajesHeader.component';
 import MensajesTable from '../../components/MensajesTable/MensajesTable.component';
 
