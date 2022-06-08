@@ -1,4 +1,5 @@
 import logo from './logo.svg';
+import 'bootstrap/dist/css/bootstrap.css';
 import './App.css';
 import Vista from './views/Vista.view';
 import ListaNumeros from './components/ListNumeros.component';
